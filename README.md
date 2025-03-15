@@ -1,5 +1,4 @@
-# LQB_study_record
-#rtc_qfsm
+# rtc_qfsm
 
 lcd显示时间，
 
